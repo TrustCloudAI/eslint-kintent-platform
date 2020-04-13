@@ -1,0 +1,26 @@
+{
+  "name": "@kintent/eslint-config-kintent-platform",
+  "license": "Apache-2.0",
+  "version": "0.1.0",
+  "description": "ESLint Config for the Kintent Platform",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kintent/eslint-kintent-platform.git"
+  },
+  "author": "Kintent, Inc.",
+  "bugs": {
+    "url": "https://github.com/Kintent/eslint-kintent-platform/issues"
+  },
+  "homepage": "https://github.com/Kintent/eslint-kintent-platform#readme",
+  "dependencies": {
+    "confusing-browser-globals": "1.0.9",
+    "eslint-import-resolver-node": "0.3.3"
+  }
+}

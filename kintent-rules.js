@@ -352,7 +352,7 @@ module.exports = {
         ignoreConsecutiveComments: true,
       },
     }],
-    "comma-dangle": ["off"", {
+    "comma-dangle": ["off", {
       arrays: "always-multiline",
       objects: "always-multiline",
       imports: "always-multiline",

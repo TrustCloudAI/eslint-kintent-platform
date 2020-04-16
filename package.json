@@ -1,7 +1,7 @@
 {
   "name": "@kintent/eslint-config-kintent-platform",
   "license": "Apache-2.0",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ESLint Config for the Kintent Platform",
   "main": "index.js",
   "engines": {

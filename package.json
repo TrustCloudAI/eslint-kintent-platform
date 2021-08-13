@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Kintent/eslint-kintent-platform#readme",
   "dependencies": {
-    "confusing-browser-globals": "1.0.9",
+    "confusing-browser-globals": "1.0.10",
     "eslint-import-resolver-node": "0.3.3"
   }
 }
